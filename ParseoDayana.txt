@@ -1,0 +1,1134 @@
+ 4	Ciau Chan  Carlos Ricardo							
+	CHOFER DE REPARTO	 RFC: CICC-860805-DX5	 Afiliación IMSS: 84-05-86-1959-8					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 234.26	S.D.I: 245.17      	   S.B.C: 340.04	  Sal. Var: 94.87 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: CICC-860805-HYNXHR02	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3513.9	 	6	Ret. Cesantia	  	58.32
+15	Bono puntualidad	  	316.25	 	16	Préstamo Infonavit (cf)	  	531.75
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	315.94
+132	Bono de Asistencia	  	316.25	 	45	I.S.R. (mes)	  	315.94
+  		  	 	 	52	I.M.S.S.	  	68.03
+  		  	 	 	99	Ajuste al neto	  	0.04
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4667.68	 	  	Total Deducciones	  	974.08
+  	Neto a pagar	  	3693.6	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+5	Fuentes Aguileta Roger Lizardo							
+	CHOFER DE REPARTO	 RFC: FUAR-741201-LI3	 Afiliación IMSS: 84-94-74-2312-9					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 234.26	S.D.I: 245.17      	   S.B.C: 264.04	  Sal. Var: 18.87 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: FUAR-741201-HYNNGG04	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3513.9	 	6	Ret. Cesantia	  	45.29
+15	Bono puntualidad	  	316.25	 	41	I.S.R. antes de Subs al Empleo	  	315.94
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	315.94
+132	Bono de Asistencia	  	316.25	 	52	I.M.S.S.	  	49.50
+  		  	 	 	99	Ajuste al neto	  	0.15
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4667.68	 	  	Total Deducciones	  	410.88
+  	Neto a pagar	  	4256.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+6	Sanchez Torres Miguel Reynaldo							
+	CHOFER DE REPARTO	 RFC: SATM-840917-HK2	 Afiliación IMSS: 84-01-84-0466-9					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 268.42	S.D.I: 280.92      	   S.B.C: 430.39	  Sal. Var: 149.47 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: SATM-840917-HYNNRG08	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	4026.3	 	6	Ret. Cesantia	  	73.82
+7	Incentivo productividad	  	4182	 	16	Préstamo Infonavit (cf)	  	679.09
+15	Bono puntualidad	  	362.37	 	41	I.S.R. antes de Subs al Empleo	  	1197
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	1197
+132	Bono de Asistencia	  	362.37	 	52	I.M.S.S.	  	90.39
+  		  	 	 	99	Ajuste al neto	  	0.02
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	9454.32	 	  	Total Deducciones	  	2040.32
+  	Neto a pagar	  	7414	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+7	Gongora Contreras Leandro Martin							
+	AUTOVENTA	 RFC: GOCL-840828-UB7	 Afiliación IMSS: 84-02-84-0475-8					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 150.49	S.D.I: 157.50      	   S.B.C: 457.40	  Sal. Var: 299.90 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: GOCL-840828-HYNNNN01	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2257.35	 	6	Ret. Cesantia	  	78.45
+6	Comisiones	  	5191.05	 	16	Préstamo Infonavit (cf)	  	731.17
+15	Bono puntualidad	  	203.16	 	41	I.S.R. antes de Subs al Empleo	  	966.67
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	966.67
+132	Bono de Asistencia	  	203.16	 	52	I.M.S.S.	  	97.07
+  		  	 	 	99	Ajuste al neto	  	-0.16
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	8376	 	  	Total Deducciones	  	1873.2
+  	Neto a pagar	  	6502.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+8	Koh Canche Luis Alfonso							
+	PREVENTISTA	 RFC: KOCL-710925-5H5	 Afiliación IMSS: 84-90-71-2750-4					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 169.22	S.D.I: 177.10      	   S.B.C: 320.58	  Sal. Var: 143.48 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: KOCL-710925-HYNHNS00	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2538.3	 	6	Ret. Cesantia	  	54.98
+6	Comisiones	  	1821.52	 	16	Préstamo Infonavit (cf)	  	2336.3
+15	Bono puntualidad	  	228.45	 	41	I.S.R. antes de Subs al Empleo	  	392.59
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	392.59
+132	Bono de Asistencia	  	228.45	 	52	I.M.S.S.	  	63.21
+  		  	 	 	99	Ajuste al neto	  	0.12
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	5338	 	  	Total Deducciones	  	2847.2
+  	Neto a pagar	  	2490.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+9	Echeverria Sanchez Orlando Alberto							
+	SUPERVISOR DE VENTAS	 RFC: EESO-800130-RM4	 Afiliación IMSS: 84-98-80-1698-0					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 187.64	S.D.I: 196.38      	   S.B.C: 584.92	  Sal. Var: 388.54 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: EESO-800130-HYNCNR03	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2814.6	 	6	Ret. Cesantia	  	100.32
+6	Comisiones	  	7061	 	16	Préstamo Infonavit (cf)	  	1817.36
+15	Bono puntualidad	  	253.31	 	41	I.S.R. antes de Subs al Empleo	  	1506.54
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	1506.54
+132	Bono de Asistencia	  	253.31	 	52	I.M.S.S.	  	128.64
+  		  	 	 	99	Ajuste al neto	  	0.04
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	10903.5	 	  	Total Deducciones	  	3552.9
+  	Neto a pagar	  	7350.6	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+10	Echeverria Burgos Francisco Javier							
+	CHOFER DE REPARTO	 RFC: EEBF-940127-4V4	 Afiliación IMSS: 26-14-94-0524-8					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 234.26	S.D.I: 245.17      	   S.B.C: 271.70	  Sal. Var: 26.53 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: EEBF-940127-HYNCRR02	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3513.9	 	6	Ret. Cesantia	  	46.60
+15	Bono puntualidad	  	316.25	 	41	I.S.R. antes de Subs al Empleo	  	315.94
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	315.94
+132	Bono de Asistencia	  	316.25	 	52	I.M.S.S.	  	51.12
+  		  	 	 	99	Ajuste al neto	  	0.02
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4667.68	 	  	Total Deducciones	  	413.68
+  	Neto a pagar	  	4254	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+11	Canche Mex Geider							
+	CHOFER DE REPARTO	 RFC: CAMG-790823-CU9	 Afiliación IMSS: 84-97-79-2499-6					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 234.26	S.D.I: 245.17      	   S.B.C: 264.04	  Sal. Var: 18.87 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: CAMG-790823-HYNNXD03	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3513.9	 	6	Ret. Cesantia	  	45.29
+15	Bono puntualidad	  	316.25	 	41	I.S.R. antes de Subs al Empleo	  	315.94
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	315.94
+132	Bono de Asistencia	  	316.25	 	52	I.M.S.S.	  	49.50
+  		  	 	 	99	Ajuste al neto	  	-0.05
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4667.68	 	  	Total Deducciones	  	410.68
+  	Neto a pagar	  	4257	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+12	Echeverria  Burgos Juan Felipe							
+	CHOFER	 RFC: EEBJ-761023-VC3	 Afiliación IMSS: 84-98-76-1956-0					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 234.26	S.D.I: 245.17      	   S.B.C: 271.70	  Sal. Var: 26.53 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: EEBJ-761023-HYNCRN04	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3513.9	 	6	Ret. Cesantia	  	46.60
+15	Bono puntualidad	  	316.25	 	16	Préstamo Infonavit (cf)	  	749.50
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	315.94
+132	Bono de Asistencia	  	316.25	 	45	I.S.R. (mes)	  	315.94
+  		  	 	 	52	I.M.S.S.	  	51.12
+  		  	 	 	99	Ajuste al neto	  	-0.08
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4667.68	 	  	Total Deducciones	  	1163.08
+  	Neto a pagar	  	3504.6	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+13	Ortegon Sanchez Jorge Alberto							
+	CHOFER DE REPARTO	 RFC: OESJ-680427-3W8	 Afiliación IMSS: 84-87-68-2698-7					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 234.26	S.D.I: 245.17      	   S.B.C: 264.04	  Sal. Var: 18.87 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: OESJ-680427-HYNRNR03	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3513.9	 	6	Ret. Cesantia	  	45.29
+15	Bono puntualidad	  	316.25	 	16	Préstamo Infonavit (cf)	  	746.01
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	315.94
+132	Bono de Asistencia	  	316.25	 	45	I.S.R. (mes)	  	315.94
+  		  	 	 	52	I.M.S.S.	  	49.50
+  		  	 	 	99	Ajuste al neto	  	-0.06
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4667.68	 	  	Total Deducciones	  	1156.68
+  	Neto a pagar	  	3511	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+14	Buenfil Sanchez Miguel Antonio							
+	AYUDANTE DE CHOFER	 RFC: BUSM-940923-191	 Afiliación IMSS: 84-13-94-4401-6					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 234.26	S.D.I: 245.17      	   S.B.C: 264.04	  Sal. Var: 18.87 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: BUSM-940923-HYNNNG03	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3513.9	 	6	Ret. Cesantia	  	45.29
+15	Bono puntualidad	  	316.25	 	41	I.S.R. antes de Subs al Empleo	  	315.94
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	315.94
+132	Bono de Asistencia	  	316.25	 	52	I.M.S.S.	  	49.50
+  		  	 	 	99	Ajuste al neto	  	-0.05
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4667.68	 	  	Total Deducciones	  	410.68
+  	Neto a pagar	  	4257	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+15	Chan Uh Edgar Manuel							
+	ALMACENISTA	 RFC: CAUE-820906-C84	 Afiliación IMSS: 84-00-82-0416-0					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 177.40	S.D.I: 185.66      	   S.B.C: 185.66	  Sal. Var: 0.00 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: CAUE-820906-HYNHHD06	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2661	 	6	Ret. Cesantia	  	31.84
+15	Bono puntualidad	  	239.49	 	32	Subs al Empleo acreditado	  	-125.10
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	206.44
+132	Bono de Asistencia	  	239.49	 	45	I.S.R. (mes)	  	81.34
+  		  	 	 	52	I.M.S.S.	  	34.81
+  		  	 	 	99	Ajuste al neto	  	-0.13
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3661.26	 	  	Total Deducciones	  	147.86
+  	Neto a pagar	  	3513.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+16	Pacheco Hernandez Angel Alexis							
+	(Ninguno)	 RFC: PAHA-990127-N28	 Afiliación IMSS: 38-16-99-4710-8					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 218.00	S.D.I: 228.15      	   S.B.C: 299.63	  Sal. Var: 71.48 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: PAHA-990127-HYNCRN03	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3270	 	6	Ret. Cesantia	  	51.39
+15	Bono puntualidad	  	294.30	 	41	I.S.R. antes de Subs al Empleo	  	284.63
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	284.63
+132	Bono de Asistencia	  	294.30	 	52	I.M.S.S.	  	58.03
+  		  	 	 	99	Ajuste al neto	  	-0.17
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4379.88	 	  	Total Deducciones	  	393.88
+  	Neto a pagar	  	3986	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+17	Chan Uh Jesus Esteban							
+	ALMACENISTA	 RFC: CAUJ-831129-B81	 Afiliación IMSS: 84-04-83-1162-9					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 142.67	S.D.I: 149.31      	   S.B.C: 153.99	  Sal. Var: 4.68 Cotiza Mixto			
+	Días pagados: 	12.00	 Tot Hrs trab: 96.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: CAUJ-831129-HYNHHS09	
+	Incapacidades	3						
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	12.00	1712.04	 	6	Ret. Cesantia	  	26.41
+15	Bono puntualidad	  	192.60	 	16	Préstamo Infonavit (cf)	  	556.27
+32	Despensa	  	521.28	 	32	Subs al Empleo acreditado	  	-188.71
+132	Bono de Asistencia	  	192.60	 	35	Subs al Empleo (mes)	  	-68.74
+  		  	 	 	41	I.S.R. antes de Subs al Empleo	  	119.98
+  		  	 	 	52	I.M.S.S.	  	28.87
+  		  	 	 	99	Ajuste al neto	  	-0.09
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	2618.52	 	  	Total Deducciones	  	542.72
+  	Neto a pagar	  	2075.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+18	Pech  Pech Jorge  Antonio							
+	AUXILIAR ADMINISTRATIVO	 RFC: PEPJ-730208-IS7	 Afiliación IMSS: 84-91-73-2630-2					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 142.67	S.D.I: 149.31      	   S.B.C: 149.31	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: PEPJ-730208-HYNCCR01	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2140.05	 	6	Ret. Cesantia	  	25.58
+15	Bono puntualidad	  	192.60	 	32	Subs al Empleo acreditado	  	-160.30
+32	Despensa	  	521.28	 	35	Subs al Empleo (mes)	  	-12.93
+132	Bono de Asistencia	  	192.60	 	41	I.S.R. antes de Subs al Empleo	  	147.37
+  		  	 	 	52	I.M.S.S.	  	27.96
+  		  	 	 	99	Ajuste al neto	  	-0.08
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3046.53	 	  	Total Deducciones	  	40.53
+  	Neto a pagar	  	3006	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+19	Tzab Alvarez Karina Encarnacion							
+	OPERADOR ADMINISTRATIVO	 RFC: TAAK-910410-1V7	 Afiliación IMSS: 26-15-91-5520-4					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 285.90	S.D.I: 299.22      	   S.B.C: 299.22	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: TAAK-910410-MYNZLR00	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	4288.5	 	6	Ret. Cesantia	  	51.32
+15	Bono puntualidad	  	385.96	 	41	I.S.R. antes de Subs al Empleo	  	431.58
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	431.58
+132	Bono de Asistencia	  	385.96	 	52	I.M.S.S.	  	57.92
+  		  	 	 	99	Ajuste al neto	  	0.08
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	5581.7	 	  	Total Deducciones	  	540.90
+  	Neto a pagar	  	5040.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+21	Cardenas  Cardenas Jorge Carlos							
+	ADMINISTRACION	 RFC: CACJ-710610-3K0	 Afiliación IMSS: 84-96-71-1158-8					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 730.22	S.D.I: 764.23      	   S.B.C: 764.23	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: CACJ-710610-HDFRRR07	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	10953.3	 	6	Ret. Cesantia	  	131.08
+15	Bono puntualidad	  	985.80	 	16	Préstamo Infonavit (cf)	  	936.52
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	2049.66
+132	Bono de Asistencia	  	985.80	 	45	I.S.R. (mes)	  	2049.66
+  		  	 	 	52	I.M.S.S.	  	173.02
+  		  	 	 	99	Ajuste al neto	  	0.10
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	13446.18	 	  	Total Deducciones	  	3290.38
+  	Neto a pagar	  	10155.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+22	Espinoza Guzman Oscar Gabriel							
+	ADMINISTRACION	 RFC: EIGO-931010-BQ6	 Afiliación IMSS: 84-12-93-3765-9					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 218.00	S.D.I: 228.15      	   S.B.C: 228.15	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: EIGO-931010-HCCSZS06	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3270	 	6	Ret. Cesantia	  	39.13
+15	Bono puntualidad	  	294.30	 	41	I.S.R. antes de Subs al Empleo	  	284.63
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	284.63
+132	Bono de Asistencia	  	294.30	 	52	I.M.S.S.	  	42.77
+  		  	 	 	99	Ajuste al neto	  	0.15
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4379.88	 	  	Total Deducciones	  	366.68
+  	Neto a pagar	  	4013.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+23	Malerva Farfan Ivan							
+	CHOFER DE REPARTO	 RFC: MAFI-830825-TE2	 Afiliación IMSS: 84-02-83-2936-9					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 285.89	S.D.I: 299.21      	   S.B.C: 299.21	  Sal. Var: 0.00 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: MAFI-830825-HVZLRV01	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	4288.35	 	6	Ret. Cesantia	  	51.32
+15	Bono puntualidad	  	385.95	 	16	Préstamo Infonavit (cf)	  	864.24
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	431.56
+132	Bono de Asistencia	  	385.95	 	45	I.S.R. (mes)	  	431.56
+  		  	 	 	52	I.M.S.S.	  	57.92
+  		  	 	 	99	Ajuste al neto	  	0.09
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	5581.53	 	  	Total Deducciones	  	1405.13
+  	Neto a pagar	  	4176.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+26	Alargon Salgado Jose Antonio							
+	CHOFER DE APOYO	 RFC: AASA-770613-NQ4	 Afiliación IMSS: 82-96-77-2195-0					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 285.89	S.D.I: 299.21      	   S.B.C: 299.21	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: AASA-770613-HGRLLN00	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	4288.35	 	6	Ret. Cesantia	  	51.32
+15	Bono puntualidad	  	385.95	 	16	Préstamo Infonavit (cf)	  	366.16
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	431.56
+132	Bono de Asistencia	  	385.95	 	45	I.S.R. (mes)	  	431.56
+  		  	 	 	52	I.M.S.S.	  	57.92
+  		  	 	 	99	Ajuste al neto	  	0.17
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	5581.53	 	  	Total Deducciones	  	907.13
+  	Neto a pagar	  	4674.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+27	Coral Broca Ivan							
+	(Ninguno)	 RFC: COBI-870617-FE7	 Afiliación IMSS: 82-06-87-2677-5					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 282.95	S.D.I: 296.13      	   S.B.C: 296.13	  Sal. Var: 0.00 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: COBI-870617-HCCRRV01	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	4244.25	 	6	Ret. Cesantia	  	50.79
+15	Bono puntualidad	  	381.98	 	15	Préstamo Infonavit (vsm)	21.28	938.56
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	423.23
+132	Bono de Asistencia	  	381.98	 	45	I.S.R. (mes)	  	423.23
+  		  	 	 	52	I.M.S.S.	  	57.16
+  		  	 	 	99	Ajuste al neto	  	0.15
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	5529.49	 	  	Total Deducciones	  	1469.89
+  	Neto a pagar	  	4059.6	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+30	Montero Sanchez Ruben Enrique							
+	JEFE DE ALMACEN	 RFC: MOSR-750311-N7A	 Afiliación IMSS: 82-94-75-2955-6					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 432.02	S.D.I: 452.14      	   S.B.C: 452.14	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: MOSR-750311-HYNNNB01	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	6480.3	 	6	Ret. Cesantia	  	77.55
+15	Bono puntualidad	  	583.23	 	41	I.S.R. antes de Subs al Empleo	  	922.25
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	922.25
+132	Bono de Asistencia	  	583.23	 	52	I.M.S.S.	  	95.77
+  		  	 	 	99	Ajuste al neto	  	0.07
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	8168.04	 	  	Total Deducciones	  	1095.64
+  	Neto a pagar	  	7072.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+31	Solis Cruz Alfonso Humberto							
+	CHOFER DE REPARTO	 RFC: SOCA-761027-9I5	 Afiliación IMSS: 81-95-77-0543-7					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 193.63	S.D.I: 202.65      	   S.B.C: 281.17	  Sal. Var: 78.52 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: SOCA-761027-HCCLRL08	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2904.45	 	6	Ret. Cesantia	  	48.23
+15	Bono puntualidad	  	261.40	 	16	Préstamo Infonavit (cf)	  	1138.05
+32	Despensa	  	521.28	 	32	Subs al Empleo acreditado	  	-125.10
+132	Bono de Asistencia	  	261.40	 	41	I.S.R. antes de Subs al Empleo	  	237.70
+  		  	 	 	45	I.S.R. (mes)	  	112.60
+  		  	 	 	52	I.M.S.S.	  	53.46
+  		  	 	 	99	Ajuste al neto	  	-0.01
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3948.53	 	  	Total Deducciones	  	1352.33
+  	Neto a pagar	  	2596.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+33	Ku Chi Omar Ariel							
+	SUPLENTE	 RFC: KUCO-971120-AV8	 Afiliación IMSS: 12-16-97-8127-0					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 141.70	S.D.I: 148.30      	   S.B.C: 176.36	  Sal. Var: 28.06 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: KUCO-971120-HCCXHM00	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2125.5	 	6	Ret. Cesantia	  	30.25
+6	Comisiones	  	778.64	 	32	Subs al Empleo acreditado	  	-125.10
+15	Bono puntualidad	  	191.29	 	41	I.S.R. antes de Subs al Empleo	  	222.41
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	97.31
+132	Bono de Asistencia	  	191.29	 	52	I.M.S.S.	  	33.07
+  		  	 	 	99	Ajuste al neto	  	0.17
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3808	 	  	Total Deducciones	  	160.80
+  	Neto a pagar	  	3647.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+34	Ramos Sanchez Carlos Alfonzo							
+	OPERADOR ADMINISTRATIVO	 RFC: RASC-730508-E16	 Afiliación IMSS: 81-92-73-0353-7					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 193.63	S.D.I: 202.65      	   S.B.C: 202.65	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: RASC-730508-HCCMNR00	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2904.45	 	6	Ret. Cesantia	  	34.76
+15	Bono puntualidad	  	261.40	 	16	Préstamo Infonavit (cf)	  	662.14
+32	Despensa	  	521.28	 	32	Subs al Empleo acreditado	  	-125.10
+132	Bono de Asistencia	  	261.40	 	41	I.S.R. antes de Subs al Empleo	  	237.70
+  		  	 	 	45	I.S.R. (mes)	  	112.60
+  		  	 	 	52	I.M.S.S.	  	38.00
+  		  	 	 	99	Ajuste al neto	  	0.03
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3948.53	 	  	Total Deducciones	  	847.53
+  	Neto a pagar	  	3101	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+35	Ramos  Sanchez Mauro Enrique							
+	JEFE ADMINISTRATIVO	 RFC: RASM-680120-1J1	 Afiliación IMSS: 81-87-68-0422-0					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 321.44	S.D.I: 336.41      	   S.B.C: 336.41	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: RASM-680120-HCCMNR05	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	4821.6	 	6	Ret. Cesantia	  	57.70
+15	Bono puntualidad	  	433.94	 	41	I.S.R. antes de Subs al Empleo	  	535.59
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	535.59
+132	Bono de Asistencia	  	433.94	 	52	I.M.S.S.	  	67.13
+  		  	 	 	99	Ajuste al neto	  	0.14
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	6210.76	 	  	Total Deducciones	  	660.56
+  	Neto a pagar	  	5550.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+37	Cahuich Che Remigio							
+	PREVENTISTA	 RFC: CACR-721001-5A1	 Afiliación IMSS: 81-88-71-0239-0					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 144.19	S.D.I: 150.91      	   S.B.C: 164.37	  Sal. Var: 13.46 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: CACR-721001-HCCHHM06	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2162.85	 	6	Ret. Cesantia	  	28.19
+6	Comisiones	  	432.55	 	32	Subs al Empleo acreditado	  	-145.38
+15	Bono puntualidad	  	194.66	 	41	I.S.R. antes de Subs al Empleo	  	189.55
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	44.17
+132	Bono de Asistencia	  	194.66	 	52	I.M.S.S.	  	30.82
+  		  	 	 	99	Ajuste al neto	  	0.02
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3506	 	  	Total Deducciones	  	103.20
+  	Neto a pagar	  	3402.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+38	Xool Cab Juan Jesus							
+	SUPERVISOR DE VENTAS	 RFC: XOCJ-810101-9K0	 Afiliación IMSS: 81-96-81-0986-8					
+	Fecha Reing: 05/03/2021	   Sal. diario: 249.55	S.D.I: 260.83      	   S.B.C: 283.65	  Sal. Var: 22.82 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: XOCJ-810101-HCCLBN01	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3743.25	 	6	Ret. Cesantia	  	48.65
+15	Bono puntualidad	  	336.89	 	16	Préstamo Infonavit (cf)	  	1460.1
+32	Despensa	  	82.97	 	41	I.S.R. antes de Subs al Empleo	  	345.39
+132	Bono de Asistencia	  	336.89	 	45	I.S.R. (mes)	  	345.39
+  		  	 	 	52	I.M.S.S.	  	54.07
+  		  	 	 	99	Ajuste al neto	  	-0.01
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4500	 	  	Total Deducciones	  	1908.2
+  	Neto a pagar	  	2591.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+39	Vazquez Caballero Felipe							
+	PREVENTISTA	 RFC: VACF-781003-BU8	 Afiliación IMSS: 81-01-78-0106-9					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 150.00	S.D.I: 156.99      	   S.B.C: 195.87	  Sal. Var: 38.88 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: VACF-781003-HCCZBL07	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2250	 	6	Ret. Cesantia	  	33.60
+6	Comisiones	  	160.72	 	32	Subs al Empleo acreditado	  	-145.38
+15	Bono puntualidad	  	202.50	 	41	I.S.R. antes de Subs al Empleo	  	171.16
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	25.79
+132	Bono de Asistencia	  	202.50	 	52	I.M.S.S.	  	36.73
+  		  	 	 	99	Ajuste al neto	  	-0.12
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3337	 	  	Total Deducciones	  	96.00
+  	Neto a pagar	  	3241	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+40	Brito Cocom Julio Antonio							
+	PREVENTISTA	 RFC: BICJ-751124-BQ3	 Afiliación IMSS: 81-95-75-0094-5					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 159.02	S.D.I: 166.43      	   S.B.C: 270.47	  Sal. Var: 104.04 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: BICJ-751124-HCCRCL04	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2385.3	 	6	Ret. Cesantia	  	46.39
+6	Comisiones	  	1751.56	 	16	Préstamo Infonavit (cf)	  	623.02
+15	Bono puntualidad	  	214.68	 	41	I.S.R. antes de Subs al Empleo	  	361.62
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	361.62
+132	Bono de Asistencia	  	214.68	 	52	I.M.S.S.	  	50.81
+  		  	 	 	99	Ajuste al neto	  	-0.14
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	5087.5	 	  	Total Deducciones	  	1081.7
+  	Neto a pagar	  	4005.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+41	Bellon Ramirez Luis Roberto							
+	PREVENTISTA	 RFC: BERL-830316-AN8	 Afiliación IMSS: 82-02-83-3052-8					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 185.58	S.D.I: 194.22      	   S.B.C: 375.92	  Sal. Var: 181.70 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: BERL-830316-HMCLMS01	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2783.7	 	6	Ret. Cesantia	  	64.48
+6	Comisiones	  	5489.46	 	16	Préstamo Infonavit (cf)	  	2272.25
+15	Bono puntualidad	  	250.53	 	41	I.S.R. antes de Subs al Empleo	  	1163.07
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	1163.07
+132	Bono de Asistencia	  	250.53	 	52	I.M.S.S.	  	76.91
+  		  	 	 	99	Ajuste al neto	  	-0.01
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	9295.5	 	  	Total Deducciones	  	3576.7
+  	Neto a pagar	  	5718.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+42	Gonzalez Velazquez Betsy Vanesa							
+	PREVENTISTA	 RFC: GOVB-930831-1G0	 Afiliación IMSS: 82-13-93-1332-2					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 177.69	S.D.I: 185.97      	   S.B.C: 637.35	  Sal. Var: 451.38 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: GOVB-930831-MQRNLT06	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2665.35	 	6	Ret. Cesantia	  	109.32
+6	Comisiones	  	6514.61	 	41	I.S.R. antes de Subs al Empleo	  	1352.22
+15	Bono puntualidad	  	239.88	 	45	I.S.R. (mes)	  	1352.22
+32	Despensa	  	521.28	 	52	I.M.S.S.	  	141.61
+132	Bono de Asistencia	  	239.88	 	99	Ajuste al neto	  	0.05
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	10181	 	  	Total Deducciones	  	1603.2
+  	Neto a pagar	  	8577.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+43	Chale May Edgar Jesus							
+	PREVENTISTA	 RFC: CAME-910730-E28	 Afiliación IMSS: 82-09-91-1064-3					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 174.22	S.D.I: 182.33      	   S.B.C: 244.63	  Sal. Var: 62.30 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: CAME-910730-HYNHYD03	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2613.3	 	6	Ret. Cesantia	  	41.96
+6	Comisiones	  	1345.52	 	41	I.S.R. antes de Subs al Empleo	  	346.71
+15	Bono puntualidad	  	235.20	 	45	I.S.R. (mes)	  	346.71
+32	Despensa	  	521.28	 	52	I.M.S.S.	  	45.87
+132	Bono de Asistencia	  	235.20	 	99	Ajuste al neto	  	-0.04
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4950.5	 	  	Total Deducciones	  	434.50
+  	Neto a pagar	  	4516	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+44	Dominguez Betancourt Maria Cecilia							
+	PREVENTISTA	 RFC: DOBC-910611-SV6	 Afiliación IMSS: 82-13-91-2000-8					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 192.07	S.D.I: 201.02      	   S.B.C: 409.89	  Sal. Var: 208.87 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: DOBC-910611-MQRMTC02	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2881.05	 	6	Ret. Cesantia	  	70.30
+6	Comisiones	  	5043.09	 	41	I.S.R. antes de Subs al Empleo	  	1092.26
+15	Bono puntualidad	  	259.29	 	45	I.S.R. (mes)	  	1092.26
+32	Despensa	  	521.28	 	52	I.M.S.S.	  	85.32
+132	Bono de Asistencia	  	259.29	 	99	Ajuste al neto	  	0.12
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	8964	 	  	Total Deducciones	  	1248
+  	Neto a pagar	  	7716	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+45	Martinez Ramirez Raul							
+	PREVENTISTA	 RFC: MARR-790309-F20	 Afiliación IMSS: 11-98-79-0373-6					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 141.70	S.D.I: 148.30      	   S.B.C: 562.41	  Sal. Var: 414.11 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: MARR-790309-HDFRML09	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2125.5	 	6	Ret. Cesantia	  	96.46
+6	Comisiones	  	7754.64	 	16	Préstamo Infonavit (cf)	  	3159.03
+15	Bono puntualidad	  	191.29	 	41	I.S.R. antes de Subs al Empleo	  	1481.02
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	1481.02
+132	Bono de Asistencia	  	191.29	 	52	I.M.S.S.	  	123.07
+  		  	 	 	99	Ajuste al neto	  	0.02
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	10784	 	  	Total Deducciones	  	4859.6
+  	Neto a pagar	  	5924.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+49	Loria Farfan Miguel Angel							
+	PREVENTISTA	 RFC: LOFM-910503-M78	 Afiliación IMSS: 82-07-91-2233-7					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 178.00	S.D.I: 186.29      	   S.B.C: 474.12	  Sal. Var: 287.83 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: LOFM-910503-HQRRRG03	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2670	 	6	Ret. Cesantia	  	81.32
+6	Comisiones	  	2899.12	 	41	I.S.R. antes de Subs al Empleo	  	600.14
+15	Bono puntualidad	  	240.30	 	45	I.S.R. (mes)	  	600.14
+32	Despensa	  	521.28	 	52	I.M.S.S.	  	101.21
+132	Bono de Asistencia	  	240.30	 	99	Ajuste al neto	  	-0.07
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	6571	 	  	Total Deducciones	  	782.60
+  	Neto a pagar	  	5788.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+50	Sanchez Escobar Luis Angel							
+	PREVENTISTA	 RFC: SAEL-900509-KZ4	 Afiliación IMSS: 17-16-90-5378-6					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 141.70	S.D.I: 148.30      	   S.B.C: 354.67	  Sal. Var: 206.37 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: SAEL-900509-HMSNSS05	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2125.5	 	6	Ret. Cesantia	  	60.83
+6	Comisiones	  	3278.14	 	41	I.S.R. antes de Subs al Empleo	  	552.92
+15	Bono puntualidad	  	191.29	 	45	I.S.R. (mes)	  	552.92
+32	Despensa	  	521.28	 	52	I.M.S.S.	  	71.65
+132	Bono de Asistencia	  	191.29	 	99	Ajuste al neto	  	-0.10
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	6307.5	 	  	Total Deducciones	  	685.30
+  	Neto a pagar	  	5622.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+51	Patron Couoh  Julio Fabian							
+	SUPERVISOR	 RFC: PACJ-800108-SG3	 Afiliación IMSS: 82-96-80-0565-0					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 166.06	S.D.I: 173.79      	   S.B.C: 678.59	  Sal. Var: 504.80 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: PACJ-800108-HYNTHL00	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2490.9	 	6	Ret. Cesantia	  	116.39
+6	Comisiones	  	8190.46	 	16	Préstamo Infonavit (cf)	  	1152.39
+15	Bono puntualidad	  	224.18	 	41	I.S.R. antes de Subs al Empleo	  	1666.21
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	1666.21
+132	Bono de Asistencia	  	224.18	 	52	I.M.S.S.	  	151.82
+  		  	 	 	99	Ajuste al neto	  	-0.01
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	11651	 	  	Total Deducciones	  	3086.8
+  	Neto a pagar	  	8564.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+52	Gonzalez Velazquez Mitsy Michel							
+	(Ninguno)	 RFC: GOVM-930831-FL3	 Afiliación IMSS: 82-12-93-0948-8					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 141.70	S.D.I: 148.30      	   S.B.C: 379.96	  Sal. Var: 231.66 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: GOVM-930831-MQRNLT01	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2125.5	 	6	Ret. Cesantia	  	65.17
+6	Comisiones	  	6437.64	 	41	I.S.R. antes de Subs al Empleo	  	1199.71
+15	Bono puntualidad	  	191.29	 	45	I.S.R. (mes)	  	1199.71
+32	Despensa	  	521.28	 	52	I.M.S.S.	  	77.91
+132	Bono de Asistencia	  	191.29	 	99	Ajuste al neto	  	0.01
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	9467	 	  	Total Deducciones	  	1342.8
+  	Neto a pagar	  	8124.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+53	Poot  Pool Jose Maximino							
+	PREVENTISTA	 RFC: POPM-810529-AU5	 Afiliación IMSS: 82-01-81-1617-6					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 141.70	S.D.I: 148.30      	   S.B.C: 563.33	  Sal. Var: 415.03 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: POPM-810529-HQRTLX01	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2125.5	 	6	Ret. Cesantia	  	96.62
+6	Comisiones	  	5578.14	 	41	I.S.R. antes de Subs al Empleo	  	1016.12
+15	Bono puntualidad	  	191.29	 	45	I.S.R. (mes)	  	1016.12
+32	Despensa	  	521.28	 	52	I.M.S.S.	  	123.30
+132	Bono de Asistencia	  	191.29	 	99	Ajuste al neto	  	0.06
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	8607.5	 	  	Total Deducciones	  	1236.1
+  	Neto a pagar	  	7371.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+54	Barrientos Tun Luis Alberth							
+	AUTOVENTA	 RFC: BATL-801015-NH2	 Afiliación IMSS: 84-98-80-3047-8					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 141.70	S.D.I: 148.30      	   S.B.C: 371.07	  Sal. Var: 222.77 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: BATL-801015-HYNRNS00	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2125.5	 	6	Ret. Cesantia	  	63.64
+6	Comisiones	  	4203.41	 	16	Préstamo Infonavit (cf)	  	1025.92
+15	Bono puntualidad	  	191.29	 	41	I.S.R. antes de Subs al Empleo	  	722.47
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	722.47
+132	Bono de Asistencia	  	191.29	 	52	I.M.S.S.	  	75.71
+  		  	 	 	99	Ajuste al neto	  	0.03
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	7232.77	 	  	Total Deducciones	  	1887.77
+  	Neto a pagar	  	5345	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+55	Novelo Pech Omar Enrique							
+	PREVENTISTA	 RFC: NOPO-770811-DS0	 Afiliación IMSS: 84-98-77-1181-3					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 182.24	S.D.I: 190.73      	   S.B.C: 420.39	  Sal. Var: 229.66 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: NOPO-770811-HYNVCM01	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2733.6	 	6	Ret. Cesantia	  	72.10
+6	Comisiones	  	3896.58	 	41	I.S.R. antes de Subs al Empleo	  	810.21
+15	Bono puntualidad	  	246.02	 	45	I.S.R. (mes)	  	810.21
+32	Despensa	  	521.28	 	52	I.M.S.S.	  	87.91
+132	Bono de Asistencia	  	246.02	 	99	Ajuste al neto	  	-0.12
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	7643.5	 	  	Total Deducciones	  	970.10
+  	Neto a pagar	  	6673.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+57	Sosa  Valencia Juan Carlos							
+	PREVENTISTA	 RFC: SOVJ-830216-4J2	 Afiliación IMSS: 84-00-83-3342-3					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 141.70	S.D.I: 148.30      	   S.B.C: 343.13	  Sal. Var: 194.83 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: SOVJ-830216-HYNSLN02	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2125.5	 	6	Ret. Cesantia	  	58.85
+6	Comisiones	  	1306.14	 	16	Préstamo Infonavit (cf)	  	977.67
+15	Bono puntualidad	  	191.29	 	41	I.S.R. antes de Subs al Empleo	  	279.80
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	279.80
+132	Bono de Asistencia	  	191.29	 	52	I.M.S.S.	  	68.79
+  		  	 	 	99	Ajuste al neto	  	-0.01
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4335.5	 	  	Total Deducciones	  	1385.1
+  	Neto a pagar	  	2950.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+58	Canto Canche Renan Humberto							
+	PREVENTISTA	 RFC: CACR-830513-2Y6	 Afiliación IMSS: 84-00-83-1126-2					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 155.52	S.D.I: 162.76      	   S.B.C: 238.76	  Sal. Var: 76.00 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: CACR-830513-HYNNNN04	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2332.8	 	6	Ret. Cesantia	  	40.95
+6	Comisiones	  	1481.02	 	16	Préstamo Infonavit (cf)	  	396.15
+7	Incentivo productividad	  	6469	 	41	I.S.R. antes de Subs al Empleo	  	1575
+15	Bono puntualidad	  	209.95	 	45	I.S.R. (mes)	  	1575
+32	Despensa	  	521.28	 	52	I.M.S.S.	  	44.77
+132	Bono de Asistencia	  	209.95	 	99	Ajuste al neto	  	-0.07
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	11224	 	  	Total Deducciones	  	2056.8
+  	Neto a pagar	  	9167.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+59	Ciau  Pech Juan Carlos							
+	PREVENTISTA	 RFC: CIPJ-660214-J64	 Afiliación IMSS: 82-87-66-0036-0					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 150.02	S.D.I: 157.01      	   S.B.C: 330.51	  Sal. Var: 173.50 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: CIPJ-660214-HYNXCN01	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2250.3	 	6	Ret. Cesantia	  	56.69
+6	Comisiones	  	4288.86	 	16	Préstamo Infonavit (cf)	  	890.31
+15	Bono puntualidad	  	202.53	 	41	I.S.R. antes de Subs al Empleo	  	772.18
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	772.18
+132	Bono de Asistencia	  	202.53	 	52	I.M.S.S.	  	65.67
+  		  	 	 	99	Ajuste al neto	  	0.05
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	7465.5	 	  	Total Deducciones	  	1784.9
+  	Neto a pagar	  	5680.6	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+60	Ruiz Poot Jose Arturo							
+	PREVENTISTA	 RFC: RUPA-770116-MJ6	 Afiliación IMSS: 84-96-77-0820-1					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 197.16	S.D.I: 206.34      	   S.B.C: 308.16	  Sal. Var: 101.82 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: RUPA-770116-HYNZTR06	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2957.4	 	6	Ret. Cesantia	  	52.85
+  		  	 	 	32	Subs al Empleo acreditado	  	-145.38
+  		  	 	 	41	I.S.R. antes de Subs al Empleo	  	186.58
+  		  	 	 	45	I.S.R. (mes)	  	41.20
+  		  	 	 	52	I.M.S.S.	  	60.14
+  		  	 	 	99	Ajuste al neto	  	0.01
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	2957.4	 	  	Total Deducciones	  	154.20
+  	Neto a pagar	  	2803.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+63	Ruiz Zapata Jesus Alejandro							
+	PREVENTISTA	 RFC: RUZJ-820720-FF3	 Afiliación IMSS: 84-01-82-1839-0					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 161.82	S.D.I: 169.36      	   S.B.C: 411.29	  Sal. Var: 241.93 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: RUZJ-820720-HYNZPS03	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2427.3	 	6	Ret. Cesantia	  	70.54
+6	Comisiones	  	5112.5	 	16	Préstamo Infonavit (cf)	  	787.31
+15	Bono puntualidad	  	218.46	 	41	I.S.R. antes de Subs al Empleo	  	992.73
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	992.73
+132	Bono de Asistencia	  	218.46	 	52	I.M.S.S.	  	85.66
+  		  	 	 	99	Ajuste al neto	  	-0.04
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	8498	 	  	Total Deducciones	  	1936.2
+  	Neto a pagar	  	6561.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+64	Osorio  Uc Carlos Enrique							
+	PREVENTISTA	 RFC: OOUC-640618-NC4	 Afiliación IMSS: 84-83-64-0701-9					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 150.00	S.D.I: 156.99      	   S.B.C: 285.00	  Sal. Var: 128.01 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: OOUC-640618-HYNSCR09	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2250	 	6	Ret. Cesantia	  	48.88
+6	Comisiones	  	1100.22	 	41	I.S.R. antes de Subs al Empleo	  	273.38
+15	Bono puntualidad	  	202.50	 	45	I.S.R. (mes)	  	273.38
+32	Despensa	  	521.28	 	52	I.M.S.S.	  	54.41
+132	Bono de Asistencia	  	202.50	 	99	Ajuste al neto	  	-0.17
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4276.5	 	  	Total Deducciones	  	376.50
+  	Neto a pagar	  	3900	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+65	Mena  Tun Jose Arturo							
+	LIQUIDADOR	 RFC: META-720814-754	 Afiliación IMSS: 84-88-73-0277-0					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 268.43	S.D.I: 280.93      	   S.B.C: 280.93	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: META-720814-HYNNNR08	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	4026.45	 	6	Ret. Cesantia	  	48.18
+15	Bono puntualidad	  	362.38	 	41	I.S.R. antes de Subs al Empleo	  	382.11
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	382.11
+132	Bono de Asistencia	  	362.38	 	52	I.M.S.S.	  	53.40
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	5272.49	 	  	Total Deducciones	  	483.69
+  	Neto a pagar	  	4788.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+66	Niquete  Palma Arturo Sebastian							
+	CAPTURISTA ALMACEN	 RFC: NIPA-991013-PI7	 Afiliación IMSS: 25-18-99-4397-7					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 141.70	S.D.I: 148.30      	   S.B.C: 148.30	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: NIPA-991013-HYNQLR00	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2125.5	 	6	Ret. Cesantia	  	25.44
+15	Bono puntualidad	  	191.29	 	32	Subs al Empleo acreditado	  	-160.30
+32	Despensa	  	521.28	 	35	Subs al Empleo (mes)	  	-14.03
+132	Bono de Asistencia	  	191.29	 	41	I.S.R. antes de Subs al Empleo	  	146.27
+  		  	 	 	52	I.M.S.S.	  	27.80
+  		  	 	 	99	Ajuste al neto	  	-0.05
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3029.36	 	  	Total Deducciones	  	39.16
+  	Neto a pagar	  	2990.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+67	Palma  Aguilar Maricela							
+	ANALISTA ADMINISTRATIVO	 RFC: PAAM-771127-V29	 Afiliación IMSS: 84-94-77-0419-7					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 141.70	S.D.I: 148.30      	   S.B.C: 148.30	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: PAAM-771127-MYNLGR05	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2125.5	 	6	Ret. Cesantia	  	25.40
+15	Bono puntualidad	  	191.29	 	32	Subs al Empleo acreditado	  	-160.30
+32	Despensa	  	521.28	 	35	Subs al Empleo (mes)	  	-14.03
+132	Bono de Asistencia	  	191.29	 	41	I.S.R. antes de Subs al Empleo	  	146.27
+  		  	 	 	52	I.M.S.S.	  	27.77
+  		  	 	 	99	Ajuste al neto	  	0.02
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3029.36	 	  	Total Deducciones	  	39.16
+  	Neto a pagar	  	2990.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+68	Diaz Ibarra Javier Osvaldo							
+	CHOFER AUTOVENTA	 RFC: DIIJ-760904-2X6	 Afiliación IMSS: 30-94-76-1415-9					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 141.70	S.D.I: 148.30      	   S.B.C: 148.30	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: DIIJ-760904-HDFZBV09	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2125.5	 	6	Ret. Cesantia	  	25.44
+15	Bono puntualidad	  	191.29	 	16	Préstamo Infonavit (cf)	  	806.87
+32	Despensa	  	521.28	 	32	Subs al Empleo acreditado	  	-160.30
+132	Bono de Asistencia	  	191.29	 	35	Subs al Empleo (mes)	  	-14.03
+  		  	 	 	41	I.S.R. antes de Subs al Empleo	  	146.27
+  		  	 	 	52	I.M.S.S.	  	27.80
+  		  	 	 	99	Ajuste al neto	  	0.08
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3029.36	 	  	Total Deducciones	  	846.16
+  	Neto a pagar	  	2183.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+69	Osorio Godoy Jose Francisco							
+	ALMACENISTA	 RFC: OOGF-681211-356	 Afiliación IMSS: 84-83-67-0029-8					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 141.70	S.D.I: 148.30      	   S.B.C: 148.30	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: OOGF-681211-HYNSDR03	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2125.5	 	6	Ret. Cesantia	  	25.44
+15	Bono puntualidad	  	191.29	 	32	Subs al Empleo acreditado	  	-160.30
+32	Despensa	  	521.28	 	35	Subs al Empleo (mes)	  	-14.03
+132	Bono de Asistencia	  	191.29	 	41	I.S.R. antes de Subs al Empleo	  	146.27
+  		  	 	 	52	I.M.S.S.	  	27.80
+  		  	 	 	99	Ajuste al neto	  	0.15
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3029.36	 	  	Total Deducciones	  	39.36
+  	Neto a pagar	  	2990	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+70	Gonzalez  Jose Alberto							
+	CHOFER DE REPARTO	 RFC: GOAL-740319-NG6	 Afiliación IMSS: 65-98-74-1154-6					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 141.70	S.D.I: 148.30      	   S.B.C: 148.30	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: GOXA-740319-HVZNXL09	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2125.5	 	6	Ret. Cesantia	  	25.44
+15	Bono puntualidad	  	191.29	 	16	Préstamo Infonavit (cf)	  	476.01
+32	Despensa	  	521.28	 	32	Subs al Empleo acreditado	  	-160.30
+132	Bono de Asistencia	  	191.29	 	35	Subs al Empleo (mes)	  	-14.03
+  		  	 	 	41	I.S.R. antes de Subs al Empleo	  	146.27
+  		  	 	 	52	I.M.S.S.	  	27.80
+  		  	 	 	99	Ajuste al neto	  	-0.06
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3029.36	 	  	Total Deducciones	  	515.16
+  	Neto a pagar	  	2514.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+71	Gomez Albino Jose Alberto							
+	(Ninguno)	 RFC: GOAA-910322-U93	 Afiliación IMSS: 67-13-91-0507-5					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 217.12	S.D.I: 227.23      	   S.B.C: 227.23	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: GOAA-910322-HVZMLL04	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3256.8	 	6	Ret. Cesantia	  	38.97
+15	Bono puntualidad	  	293.11	 	41	I.S.R. antes de Subs al Empleo	  	282.93
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	282.93
+132	Bono de Asistencia	  	293.11	 	52	I.M.S.S.	  	42.61
+  		  	 	 	99	Ajuste al neto	  	-0.01
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4364.3	 	  	Total Deducciones	  	364.50
+  	Neto a pagar	  	3999.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+74	Salvatierra Garcia Alexis Enrique							
+	(Ninguno)	 RFC: SAGA-920401-TB2	 Afiliación IMSS: 03-19-92-4624-4					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 285.90	S.D.I: 299.22      	   S.B.C: 299.22	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: SAGA-920401-HTCLRL09	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	4288.5	 	6	Ret. Cesantia	  	51.32
+15	Bono puntualidad	  	385.96	 	41	I.S.R. antes de Subs al Empleo	  	431.58
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	431.58
+132	Bono de Asistencia	  	385.96	 	52	I.M.S.S.	  	57.92
+  		  	 	 	99	Ajuste al neto	  	0.08
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	5581.7	 	  	Total Deducciones	  	540.90
+  	Neto a pagar	  	5040.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+75	Martinez Bojorquez Yeni Jacqueline							
+	PREVENTISTA	 RFC: MABY-790605-TF0	 Afiliación IMSS: 84-11-79-0045-0					
+	Fecha Ingr: 01/01/2020	   Sal. diario: 188.46	S.D.I: 197.24      	   S.B.C: 548.73	  Sal. Var: 351.49 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: MABY-790605-MYNRJN03	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2826.9	 	6	Ret. Cesantia	  	94.12
+6	Comisiones	  	4404.98	 	16	Préstamo Infonavit (cf)	  	578.75
+15	Bono puntualidad	  	254.42	 	41	I.S.R. antes de Subs al Empleo	  	942.32
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	942.32
+132	Bono de Asistencia	  	254.42	 	52	I.M.S.S.	  	119.68
+  		  	 	 	99	Ajuste al neto	  	0.13
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	8262	 	  	Total Deducciones	  	1735
+  	Neto a pagar	  	6527	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+78	Mendez Bermudez Ivan							
+	PREVENTISTA	 RFC: MEBI-900309-NM9	 Afiliación IMSS: 82-06-90-2805-6					
+	Fecha Ingr: 05/02/2020	   Sal. diario: 210.18	S.D.I: 219.97      	   S.B.C: 219.97	  Sal. Var: 0.00 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: MEBI-900309-HCSNRV03	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3152.7	 	6	Ret. Cesantia	  	153.43
+15	Bono puntualidad	  	283.74	 	41	I.S.R. antes de Subs al Empleo	  	269.57
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	269.57
+132	Bono de Asistencia	  	283.74	 	52	I.M.S.S.	  	85.24
+  		  	 	 	99	Ajuste al neto	  	0.02
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4241.46	 	  	Total Deducciones	  	508.26
+  	Neto a pagar	  	3733.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+80	Castro Tun  Wilfrido							
+	(Ninguno)	 RFC: CATW-000720-DZ1	 Afiliación IMSS: 22-16-00-6822-1					
+	Fecha Ingr: 01/04/2020	   Sal. diario: 142.57	S.D.I: 149.21      	   S.B.C: 164.83	  Sal. Var: 15.62 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: CATW-000720-HYNSNLA3	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2138.55	 	6	Ret. Cesantia	  	28.27
+15	Bono puntualidad	  	192.47	 	32	Subs al Empleo acreditado	  	-160.30
+32	Despensa	  	521.28	 	35	Subs al Empleo (mes)	  	-13.04
+132	Bono de Asistencia	  	192.47	 	41	I.S.R. antes de Subs al Empleo	  	147.26
+  		  	 	 	52	I.M.S.S.	  	30.90
+  		  	 	 	99	Ajuste al neto	  	0.04
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3044.77	 	  	Total Deducciones	  	46.17
+  	Neto a pagar	  	2998.6	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+81	Vera Gonzalez Santos Alexander							
+	CHOFER DE REPARTO	 RFC: VEGS-760416-6W0	 Afiliación IMSS: 84-97-76-0717-9					
+	Fecha Ingr: 08/07/2020	   Sal. diario: 234.26	S.D.I: 244.85      	   S.B.C: 263.72	  Sal. Var: 18.87 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: VEGS-760416-HYNRNN01	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3513.9	 	6	Ret. Cesantia	  	45.23
+15	Bono puntualidad	  	316.25	 	15	Préstamo Infonavit (vsm)	8.16	497.85
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	315.94
+132	Bono de Asistencia	  	316.25	 	45	I.S.R. (mes)	  	315.94
+  		  	 	 	52	I.M.S.S.	  	49.45
+  		  	 	 	99	Ajuste al neto	  	0.01
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4667.68	 	  	Total Deducciones	  	908.48
+  	Neto a pagar	  	3759.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+82	Juarez  Calix Martin							
+	DUPERVIDOR DE ALMACEN	 RFC: JUCM-801030-ED0	 Afiliación IMSS: 83-98-80-0769-2					
+	Fecha Ingr: 08/07/2020	   Sal. diario: 234.26	S.D.I: 244.85      	   S.B.C: 244.85	  Sal. Var: 0.00 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: JUCM-801030-HTCRLR09	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3513.9	 	6	Ret. Cesantia	  	42.00
+15	Bono puntualidad	  	316.25	 	16	Préstamo Infonavit (cf)	1001.71	588.26
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	315.94
+132	Bono de Asistencia	  	316.25	 	45	I.S.R. (mes)	  	315.94
+  		  	 	 	52	I.M.S.S.	  	45.91
+  		  	 	 	99	Ajuste al neto	  	-0.03
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4667.68	 	  	Total Deducciones	  	992.08
+  	Neto a pagar	  	3675.6	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+84	Reyes Gonzalez Luis Fernando							
+	AYUDANTE DE ALMACEN	 RFC: REGL-020120-IE2	 Afiliación IMSS: 50-17-02-9042-8					
+	Fecha Ingr: 23/07/2020	   Sal. diario: 177.40	S.D.I: 185.42      	   S.B.C: 185.42	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: REGL-020120-HQRYNSA3	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2661	 	6	Ret. Cesantia	  	31.80
+15	Bono puntualidad	  	239.49	 	32	Subs al Empleo acreditado	  	-125.10
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	206.44
+132	Bono de Asistencia	  	239.49	 	45	I.S.R. (mes)	  	81.34
+  		  	 	 	52	I.M.S.S.	  	34.77
+  		  	 	 	99	Ajuste al neto	  	0.15
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3661.26	 	  	Total Deducciones	  	148.06
+  	Neto a pagar	  	3513.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+85	Tapia  Parra  Jonathan Ulises							
+	AYUDANTE DE CHOFER	 RFC: TAPJ-960126-2D1	 Afiliación IMSS: 38-15-96-2262-0					
+	Fecha Ingr: 07/08/2020	   Sal. diario: 145.00	S.D.I: 151.55      	   S.B.C: 207.86	  Sal. Var: 56.31 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: TAPJ-960126-HYNPRN00	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2175	 	6	Ret. Cesantia	  	35.65
+6	Comisiones	  	1580.22	 	41	I.S.R. antes de Subs al Empleo	  	315.98
+15	Bono puntualidad	  	195.75	 	45	I.S.R. (mes)	  	315.98
+32	Despensa	  	521.28	 	52	I.M.S.S.	  	86.29
+132	Bono de Asistencia	  	195.75	 	99	Ajuste al neto	  	-0.12
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4668	 	  	Total Deducciones	  	437.80
+  	Neto a pagar	  	4230.2	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+87	Fernandez Dzib Carlos Guillermo							
+	CHOFER DE REPARTO	 RFC: FEDC-750412-T53	 Afiliación IMSS: 84-92-75-0411-2					
+	Fecha Ingr: 07/08/2020	   Sal. diario: 177.40	S.D.I: 185.42      	   S.B.C: 200.75	  Sal. Var: 15.33 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: FEDC-750412-HCCRZR09	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2661	 	6	Ret. Cesantia	  	34.43
+7	Incentivo productividad	  	469.00	 	32	Subs al Empleo acreditado	  	-107.37
+15	Bono puntualidad	  	239.49	 	41	I.S.R. antes de Subs al Empleo	  	257.47
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	150.10
+132	Bono de Asistencia	  	239.49	 	52	I.M.S.S.	  	37.65
+  		  	 	 	99	Ajuste al neto	  	0.08
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4130.26	 	  	Total Deducciones	  	222.26
+  	Neto a pagar	  	3908	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+88	Palma Aguilar Juan Manuel							
+	AUXILIAR ADMINISTRATIVO	 RFC: PAAJ-710328-5K2	 Afiliación IMSS: 84-90-71-0870-2					
+	Fecha Ingr: 08/10/2020	   Sal. diario: 217.76	S.D.I: 227.60      	   S.B.C: 227.60	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: PAAJ-710328-HYNLGN04	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3266.4	 	6	Ret. Cesantia	  	39.04
+15	Bono puntualidad	  	293.98	 	16	Préstamo Infonavit (cf)	  	505.22
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	284.17
+132	Bono de Asistencia	  	293.98	 	45	I.S.R. (mes)	  	284.17
+  		  	 	 	52	I.M.S.S.	  	42.68
+  		  	 	 	99	Ajuste al neto	  	-0.07
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4375.64	 	  	Total Deducciones	  	871.04
+  	Neto a pagar	  	3504.6	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+89	Izquierdo  Trujillo Dagoberto							
+	CHOFER DE APOYO	 RFC: IUTD-930112-5EA	 Afiliación IMSS: 02-15-93-1741-7					
+	Fecha Ingr: 08/10/2020	   Sal. diario: 282.90	S.D.I: 295.69      	   S.B.C: 295.69	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: IUTD-930112-HQRZRG02	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	4243.5	 	6	Ret. Cesantia	  	50.71
+15	Bono puntualidad	  	381.91	 	16	Préstamo Infonavit (cf)	  	2563.83
+32	Despensa	  	521.28	 	41	I.S.R. antes de Subs al Empleo	  	423.09
+132	Bono de Asistencia	  	381.91	 	45	I.S.R. (mes)	  	423.09
+  		  	 	 	52	I.M.S.S.	  	57.05
+  		  	 	 	99	Ajuste al neto	  	-0.08
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	5528.6	 	  	Total Deducciones	  	3094.6
+  	Neto a pagar	  	2434	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+90	Gongora Aguilar Irving Arcangel							
+	AUXILIAR ADMINISTRATIVO	 RFC: GOAI-930726-PD6	 Afiliación IMSS: 24-16-93-1406-9					
+	Fecha Ingr: 08/10/2020	   Sal. diario: 217.76	S.D.I: 227.60      	   S.B.C: 227.60	  Sal. Var: 0.00 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: GOAI-930726-HQRNGR09	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3266.4	 	6	Ret. Cesantia	  	39.04
+15	Bono puntualidad	  	293.98	 	41	I.S.R. antes de Subs al Empleo	  	284.17
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	284.17
+132	Bono de Asistencia	  	293.98	 	52	I.M.S.S.	  	42.68
+  		  	 	 	99	Ajuste al neto	  	-0.05
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4375.64	 	  	Total Deducciones	  	365.84
+  	Neto a pagar	  	4009.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+94	Cituk Uitz Ernesto Marcelino							
+	PREVENTISTA	 RFC: CIUE-800724-911	 Afiliación IMSS: 84-99-80-0834-0					
+	Fecha Ingr: 22/01/2021	   Sal. diario: 145.00	S.D.I: 151.55      	   S.B.C: 244.50	  Sal. Var: 92.95 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: CIUE-800724-HYNTTR04	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2175	 	6	Ret. Cesantia	  	41.94
+6	Comisiones	  	1742.37	 	16	Préstamo Infonavit (cf)	  	866.85
+15	Bono puntualidad	  	195.75	 	41	I.S.R. antes de Subs al Empleo	  	333.62
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	333.62
+132	Bono de Asistencia	  	195.75	 	52	I.M.S.S.	  	45.84
+  		  	 	 	99	Ajuste al neto	  	0.10
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	4830.15	 	  	Total Deducciones	  	1288.35
+  	Neto a pagar	  	3541.8	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+97	Hernandez Vega Juan Pablo							
+	PREVENTISTA	 RFC: HEVJ-791017-GG2	 Afiliación IMSS: 01-96-79-0685-8					
+	Fecha Ingr: 22/02/2021	   Sal. diario: 150.00	S.D.I: 156.78      	   S.B.C: 779.72	  Sal. Var: 622.94 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: HEVJ-791017-HDFRGN09	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2250	 	6	Ret. Cesantia	  	133.73
+6	Comisiones	  	4291.17	 	16	Préstamo Infonavit (cf)	  	2166.79
+15	Bono puntualidad	  	202.50	 	41	I.S.R. antes de Subs al Empleo	  	772.60
+32	Despensa	  	521.28	 	45	I.S.R. (mes)	  	772.60
+132	Bono de Asistencia	  	202.50	 	52	I.M.S.S.	  	176.85
+  		  	 	 	99	Ajuste al neto	  	0.08
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	7467.45	 	  	Total Deducciones	  	3250.05
+  	Neto a pagar	  	4217.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+98	Castillo Hernandez Cabdelario Ruben 							
+	CHOFER DE REPARTO	 RFC: CAHC-690203-LS4	 Afiliación IMSS: 81-87-69-0638-9					
+	Fecha Ingr: 05/03/2021	   Sal. diario: 192.73	S.D.I: 201.44      	   S.B.C: 201.44	  Sal. Var: 0.00 Cotiza Mixto			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: CAHC-690203-HCCSRN04	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2890.95	 	6	Ret. Cesantia	  	34.55
+15	Bono puntualidad	  	260.19	 	16	Préstamo Infonavit (cf)	  	965.94
+32	Despensa	  	521.28	 	32	Subs al Empleo acreditado	  	-125.10
+132	Bono de Asistencia	  	260.19	 	41	I.S.R. antes de Subs al Empleo	  	235.97
+  		  	 	 	45	I.S.R. (mes)	  	110.86
+  		  	 	 	52	I.M.S.S.	  	37.77
+  		  	 	 	99	Ajuste al neto	  	0.09
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3932.61	 	  	Total Deducciones	  	1149.21
+  	Neto a pagar	  	2783.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+99	Mena Uc Aurelio Rangel							
+	AYUDANTE DE ALMACEN	 RFC: MEUA-001126-5F3	 Afiliación IMSS: 35-17-00-2443-0					
+	Fecha Ingr: 17/06/2021	   Sal. diario: 177.88	S.D.I: 185.92      	   S.B.C: 185.92	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: MEUA-001126-HYNNCRA7	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	2668.2	 	6	Ret. Cesantia	  	31.89
+15	Bono puntualidad	  	240.14	 	32	Subs al Empleo acreditado	  	-125.10
+132	Bono de Asistencia	  	240.14	 	41	I.S.R. antes de Subs al Empleo	  	207.37
+  		  	 	 	45	I.S.R. (mes)	  	82.27
+  		  	 	 	52	I.M.S.S.	  	34.86
+  		  	 	 	99	Ajuste al neto	  	0.06
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3148.48	 	  	Total Deducciones	  	149.08
+  	Neto a pagar	  	2999.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+100	Suarez Diaz Amilcar							
+	AYUDANTE DE ALMACEN	 RFC: SUDA-990828-2D9	 Afiliación IMSS: 26-16-99-6927-1					
+	Fecha Ingr: 17/06/2021	   Sal. diario: 218.47	S.D.I: 228.35      	   S.B.C: 228.35	 Cotiza Fijo			
+	Días pagados: 	15.00	 Tot Hrs trab: 120.00	Hrs día: 8.00 	 Hrs extras:	0.00	 CURP: SUDA-990828-HQRRZM07	
+ 	 	 	 	 	 	 	 	 
+1	Sueldo	15.00	3277.05	 	6	Ret. Cesantia	  	39.16
+15	Bono puntualidad	  	294.93	 	41	I.S.R. antes de Subs al Empleo	  	285.53
+132	Bono de Asistencia	  	294.93	 	45	I.S.R. (mes)	  	285.53
+  		  	 	 	52	I.M.S.S.	  	42.82
+			.......................................................................	 				.......................................................................
+  	Total Percepciones	  	3866.91	 	  	Total Deducciones	  	367.51
+  	Neto a pagar	  	3499.4	 	  	  	  	 
+ 								
+  	  	----------------------------------------------						
+	 	 	 	 	 	 	 
+ 								
